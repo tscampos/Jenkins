@@ -8,7 +8,7 @@ pipeline {
             }
         }
 
-        stage('Build Image') {
+        stage('Build Images') {
             steps {
                 script {
                     dockerapp = docker.build("tscampos/api-produto:${env.BUILD_ID}",
