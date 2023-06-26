@@ -1,5 +1,3 @@
-# pedelogo-catalogo
-
 # Projeto pedelogo-catalogo
 
 ### Objetivo
